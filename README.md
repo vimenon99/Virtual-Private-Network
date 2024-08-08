@@ -31,3 +31,8 @@ Install the necessary Python library using:
 
 ```bash
 pip install scapy
+
+
+sudo python3 server.py
+
+sudo python3 client.py
